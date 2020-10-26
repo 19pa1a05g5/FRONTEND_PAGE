@@ -2,6 +2,7 @@
 
 #html_code link:
 
+https://github.com/19pa1a05g5/FRONTEND_PAGE/blob/main/7wonders.html
 
 #css_code link:
 
